@@ -33,4 +33,9 @@ public void ClickOnSignUp() {
 SignUp.click();
 }
 
+public void demo()
+{
+	System.out.println("hello");
+}
+
 }
